@@ -55,16 +55,6 @@
 
 ---
 
-### 📊 My GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-00-11&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-00-11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karan-00-11&theme=radical)](https://git.io/streak-stats)
-
----
-
 ### 📫 Connect With Me:
 - LinkedIn: https://www.linkedin.com/in/karan-jayakumar/
 - Email: karanjayakumar24@gmail.com
