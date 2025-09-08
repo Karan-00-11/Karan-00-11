@@ -1,7 +1,7 @@
 # Hello👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="600" height="300"/>
+  <img src="https://www.flashforwardpod.com/wp-content/uploads/2016/04/FF10_animated.gif" width="600" height="300"/>
 </div>
 
 ## 🧠 Machine Learning Researcher | 🤖 AI Enthusiast
