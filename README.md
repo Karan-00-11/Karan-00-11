@@ -47,6 +47,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karan-00-11&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
 ### 📊 My GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karan-00-11&show_icons=true&theme=radical)
@@ -54,14 +62,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan-00-11&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Karan-00-11&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Karan-00-11&theme=radical&no-frame=true&margin-w=15&margin-h=15)
 
 ---
 
