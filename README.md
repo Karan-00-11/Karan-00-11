@@ -35,7 +35,7 @@
 <a href="https://github.com/Karan-00-11/SSL-Change-Detection">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-00-11&repo=SSL-Change-Detection&theme=radical" />
 </a>
-<a href="https://github.com/Karan-00-11/HFT-RL">
+<a href="https://github.com/Karan-00-11/HFT-RL.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Karan-00-11&repo=HFT-RL&theme=radical" />
 </a>
 <a href="https://github.com/Karan-00-11/conser-vision">
