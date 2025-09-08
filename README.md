@@ -66,8 +66,8 @@
 ---
 
 ### 📫 Connect With Me:
-- LinkedIn: [https://www.linkedin.com/in/karan-jayakumar/]
-- Email: [karanjayakumar24@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/karan-jayakumar/
+- Email: karanjayakumar24@gmail.com
 
 ---
 
