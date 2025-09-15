@@ -13,7 +13,7 @@
 - 🌱 Currently exploring self-supervised learning techniques
 - 💹 Researching reinforcement learning for high-frequency trading
 - 👯 Looking to collaborate on ML/AI research projects
-- 💬 Ask me about computer vision, reinforcement learning, and financial ML applications
+- 💬 Intrested in computer vision, reinforcement learning, and financial ML applications
 
 ---
 
